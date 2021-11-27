@@ -8,11 +8,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<h3 align="center">Produtos_MVC-Eventos</h3>
+<h3 align="center">Produtos_MVC</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Conteúdo</summary>
   <ol>
     <li>
       <a href="#Sobre-o-projeto">Sobre o Projeto</a>
@@ -30,7 +30,7 @@
 ![[Tela Principal App][product-screenshot]](https://github.com/marcosaraujo-dev/Produtos_MVC/blob/main/Images/01%20-%20Tela%20de%20listagem%20de%20eventos.PNG)
 
 Projeto criado com intuito de estudo simulando uma aplicação onde o usuário pode ser realizar consulta e cadastros de produtos.
-Nesse projeto foi utilizado a tecnologia net.core 2.2 para o backEnd e frontend.
+Nesse projeto foi utilizado a tecnologia net.core 2.2 para o BackEnd e FrontEnd.
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -53,7 +53,7 @@ Nesse projeto foi utilizado a tecnologia net.core 2.2 para o backEnd e frontend.
 <!-- CONTACT -->
 ## Contatos
 
-Marcos Araujo - [@linkedin_handle](https://www.linkedin.com/in/marcosaraujosouza/) - marcos.araso@hotmail.com
+Marcos Araujo - [linkedin](https://www.linkedin.com/in/marcosaraujosouza/) - marcos.araso@hotmail.com
 
 Project Link: [https://github.com/marcosaraujo-dev/Produtos_MVC](https://github.com/marcosaraujo-dev/Produtos_MVC)
 
@@ -72,7 +72,7 @@ Project Link: [https://github.com/marcosaraujo-dev/Produtos_MVC](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[project-name]: "Produtos_MVC"
+
 [contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/Produtos_MVC.svg?style=for-the-badge
 [contributors-url]: https://github.com/marcosaraujo-dev/Produtos_MVC/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/Produtos_MVC.svg?style=for-the-badge
